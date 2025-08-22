@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou o João Victor  
 
-💻 Sou um jovem desenvolvedor Java de 18 anos,
-apaixonado por programação e tecnologia.
-Atualmente estou no 3/4 semestre do Técnico em Desenvolvimento de Sistemas ,
-sempre buscando aprender coisas novas e superar desafios.
+Atualmente cursando Técnico em Desenvolvimento de Sistemas no SENAI, sou um entusiasta da tecnologia e apaixonado por programação. Busco constantemente aprimorar meus conhecimentos e desenvolver soluções eficientes e inovadoras. Tenho nível B1 de inglês e estou sempre estudando para evoluir ainda mais, tanto no idioma quanto nas áreas técnicas. Em dezembro de 2026, ingressarei na faculdade de Engenharia de Software, dando continuidade à minha jornada acadêmica e profissional. Estou em busca de oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de software. 
 
 ---
 
