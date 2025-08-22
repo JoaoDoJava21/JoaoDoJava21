@@ -1,10 +1,13 @@
 # 👋 Olá, eu sou o João Victor  
 
-💻 **Desenvolvedor em formação** apaixonado por tecnologia e sempre em busca de novos desafios!  
+💻 Sou um jovem desenvolvedor Java de 18 anos,
+apaixonado por programação e tecnologia.
+Atualmente estou no 3/4 semestre do Técnico em Desenvolvimento de Sistemas ,
+sempre buscando aprender coisas novas e superar desafios.
 
 ---
 
-## 🚀 Tecnologias que utilizo:
+## Tecnologias que utilizo:
 <div align="center">
   
   <!-- Java -->
@@ -39,6 +42,5 @@
 
 ## 🌍 Onde me encontrar
 - 📫 Email: joao.v.mendes7@ba.estudante.senai.br
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mendes-872644320/)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-mendes-872644320/)  
 
-✨ Sempre aberto a novas oportunidades e colaborações!
