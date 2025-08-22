@@ -30,14 +30,14 @@
 <div align="center">
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDoJava21&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 🌍 Onde me encontrar
-- 📫 Email: **seuemail@gmail.com**  
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
+- 📫 Email: joao.v.mendes7@ba.estudante.senai.br
+- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mendes-872644320/)  
 
 ✨ Sempre aberto a novas oportunidades e colaborações!
