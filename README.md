@@ -29,8 +29,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight)  
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDoJava21&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDoJava21&layout=compact&theme=tokyonight)
+
 
 </div>
 
