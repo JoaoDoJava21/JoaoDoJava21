@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Victor  
 
-Atualmente cursando Técnico em Desenvolvimento de Sistemas no SENAI, sou um entusiasta da tecnologia e apaixonado por programação. Busco constantemente aprimorar meus conhecimentos e desenvolver soluções eficientes e inovadoras. Tenho nível B1 de inglês e estou sempre estudando para evoluir ainda mais, tanto no idioma quanto nas áreas técnicas. Em dezembro de 2025, ingressarei na faculdade de Engenharia de Software, dando continuidade à minha jornada acadêmica e profissional. Estou em busca de oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de software. 
+Estudante de Desenvolvimento de Sistemas pelo SENAI e graduando em Engenharia de Software. Apaixonado por tecnologia e programação, com foco em criar soluções eficientes e bem estruturadas. Busco oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de software por meio de projetos práticos e desafios reais.
 
 ---
 
