@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Victor  
 
-Estudante de Desenvolvimento de Sistemas pelo SENAI e graduando em Engenharia de Software. Apaixonado por tecnologia e programação, com foco em criar soluções eficientes e bem estruturadas. Busco oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de software por meio de projetos práticos e desafios reais.
+Estudante de Desenvolvimento de Sistemas pelo SENAI e graduando em Engenharia de Software. Apaixonado por tecnologia e programação, com foco em criar soluções eficientes e bem estruturadas.
 
 ---
 
