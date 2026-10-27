@@ -20,44 +20,19 @@
   </a>
 </p>
 
----
+<img src="./assets/divisor.svg" width="100%"/>
 
-## 🧠 Sobre mim
+<!-- ===================== SOBRE MIM (terminal animado) ===================== -->
+<p align="center">
+  <img src="./assets/sobre-mim.svg" width="100%" alt="João Victor, 19 anos. Desenvolvedor na Adore Saúde: agentes de IA no WhatsApp, automações e integrações. Tetracampeão do Grand Prix SENAI e ex-competidor WorldSkills. Técnico em Desenvolvimento de Sistemas pelo SENAI e Bacharelado em Engenharia de Software pela UCSAL. Foco em agentes de IA, visão computacional, automação e full-stack."/>
+</p>
 
-Tenho **19 anos** e transformo problemas reais em software. Hoje trabalho como desenvolvedor na **Adore Saúde**, construindo agentes de IA para atendimento no WhatsApp, automações e integrações que fazem o time comercial vender mais e perder menos tempo.
+<!-- ===================== CONQUISTAS (cards animados) ===================== -->
+<p align="center">
+  <img src="./assets/conquistas.svg" width="100%" alt="Tetracampeão do Grand Prix SENAI de Inovação, ex-competidor WorldSkills, Adore Saúde e 19 anos"/>
+</p>
 
-Competição faz parte de quem eu sou: sou **tetracampeão do Grand Prix SENAI de Inovação** e **ex-competidor da WorldSkills**.
-
-```java
-public class JoaoVictor extends Desenvolvedor {
-
-    int idade = 19;
-    String trabalho = "Desenvolvedor @ Adore Saúde 🩺";
-
-    String[] formacao = {
-        "Técnico em Desenvolvimento de Sistemas — SENAI",
-        "Bacharelado em Engenharia de Software — UCSAL"
-    };
-
-    String[] conquistas = {
-        "🏆 Tetracampeão do Grand Prix SENAI de Inovação",
-        "🌍 Ex-competidor WorldSkills"
-    };
-
-    String[] foco = {
-        "🤖 Agentes de IA",
-        "👁️ Visão computacional",
-        "⚙️ Automação",
-        "💻 Desenvolvimento full-stack"
-    };
-
-    public String proximoPasso() {
-        return "Levar IA para problemas que ainda são resolvidos na mão 🚀";
-    }
-}
-```
-
----
+<img src="./assets/divisor.svg" width="100%"/>
 
 ## 🛠️ Stack
 
@@ -72,7 +47,7 @@ public class JoaoVictor extends Desenvolvedor {
   <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+<img src="./assets/divisor.svg" width="100%"/>
 
 ## 📊 Números
 
@@ -85,11 +60,7 @@ public class JoaoVictor extends Desenvolvedor {
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDoJava21&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoDoJava21&theme=tokyo-night&hide_border=true&area=true&custom_title=Minhas%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade"/>
-</p>
-
----
+<img src="./assets/divisor.svg" width="100%"/>
 
 ## 🐍 A cobrinha comendo meus commits
 
@@ -100,8 +71,6 @@ public class JoaoVictor extends Desenvolvedor {
     <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/JoaoDoJava21/JoaoDoJava21/output/github-snake-dark.svg"/>
   </picture>
 </p>
-
----
 
 <!-- ===================== FOOTER ANIMADO ===================== -->
 <p align="center">
